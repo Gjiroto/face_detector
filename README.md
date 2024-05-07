@@ -22,8 +22,8 @@ This project allows you to detect faces in real time using the webcam and the Op
     
 3.  **Run the code:** Open a terminal or command window and navigate to the project directory. Then, run the following command:
     
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   python face_detector.py  python3 face_detector.py   `
+  python face_detector.py 
+  python3 face_detector.py   `
 
 1.  **Observe face detection:** A window will open showing the webcam image in real time. If faces are detected, green rectangles will be drawn around them. You can press the 'q' key to exit the program.
     
